@@ -4,6 +4,7 @@
 * [Endpoint](https://stackoverflow.com/questions/2122604/what-is-an-endpoint) -> https://rallycoding.herokuapp.com/api/music_albums
 * Instant search by entered letter.
 * Style changes according to dark mode and light mode options.
+* [ ] Continuous development.
 <br>
 <br>
 
